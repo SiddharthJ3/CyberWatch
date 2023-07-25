@@ -1,11 +1,16 @@
-<h1>CYBERWATCH</h1>
+# CYBERWATCH 
 
-<p>This is a clone of the website cyberfiction.io </p>
+This is a clone of the website cyberfiction.io.
 
-<h3>What I used.. </h3>
+## Tech Stack
+- ### `HTML` & `CSS`
+- ### `JavaScript`
+- ### `GSAP`
 
-<ul>
-<li>HTML & CSS</li>
-<li>JavaScript</li>
-<li>GSAP</li>
-</ul>
+## Demo Video
+
+https://github.com/SiddharthJ3/CyberWatch/assets/79078458/e52ee454-f384-49bf-8f8a-7cb3db1fd04c
+
+## Made By
+
+[@SiddharthJ3](https://github.com/SiddharthJ3)
